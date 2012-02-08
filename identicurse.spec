@@ -4,7 +4,7 @@ Name:           identicurse
 Version:        0.8.2
 Release:        1
 Summary:        Curses based Status.net client
-Group:          Applications/Internet
+Group:          Networking/Other 
 License:        GPLv3+
 URL:            http://identicurse.net/
 Source0:        http://identicurse.net/release/%{short_version}/%{name}-%{version}.tar.gz
