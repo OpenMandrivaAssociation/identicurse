@@ -1,7 +1,7 @@
-%define short_version 0.8
+%define short_version 0.9
 
 Name:           identicurse
-Version:        0.8.2
+Version:        0.9
 Release:        1
 Summary:        Curses based Status.net client
 Group:          Networking/Other 
