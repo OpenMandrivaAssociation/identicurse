@@ -43,3 +43,15 @@ pushd %buildroot/%{python_sitelib}/%{name} && help2man -n %{name} --no-info --ve
 %{python_sitelib}/%{name}-*.egg-info/
 %{_bindir}/identicurse
 %{_mandir}/man1/%{name}.1.xz
+
+
+%changelog
+* Mon Feb 27 2012 Alexander Khrukin <akhrukin@mandriva.org> 0.9-1
++ Revision: 781003
+- version update 0.9
+
+* Wed Feb 08 2012 Alexander Khrukin <akhrukin@mandriva.org> 0.8.2-1
++ Revision: 771855
+- Group: fix
+- imported package identicurse
+
