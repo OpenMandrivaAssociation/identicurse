@@ -2,7 +2,7 @@
 
 Name:           identicurse
 Version:        0.9
-Release:        1
+Release:        2
 Summary:        Curses based Status.net client
 Group:          Networking/Other 
 License:        GPLv3+
