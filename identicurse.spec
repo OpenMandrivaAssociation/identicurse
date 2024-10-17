@@ -6,7 +6,7 @@ Release:        2
 Summary:        Curses based Status.net client
 Group:          Networking/Other 
 License:        GPLv3+
-URL:            http://identicurse.net/
+URL:            https://identicurse.net/
 Source0:        http://identicurse.net/release/%{short_version}/%{name}-%{version}.tar.gz
 BuildArch:      noarch
 BuildRequires:  python-setuptools, help2man
